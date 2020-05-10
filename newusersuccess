@@ -1,0 +1,5 @@
+<h1> New user is added successfully </h1>
+<br>
+<a href="/userdetails">SHOW USERS</a>
+<br>
+<a href="/index"> Add new user </a>
